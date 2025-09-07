@@ -54,6 +54,12 @@ Mostrará un menú con opciones:
 
 ---
 
+## 🎥 Video demostrativo
+
+Link del video: [Videmostrativo del funcionamiento ](https://drive.google.com/file/d/14KEB2GFOadIUB9fF7fczuvzjK1bP0lOq/view?usp=sharing)
+
+---
+
 ## ⚠️ Limitaciones
 
 * Catálogo fijo (`MAX_LIBROS=100`).
