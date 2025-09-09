@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04-week/01-session/01-session.iml" filepath="$PROJECT_DIR$/04-week/01-session/01-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-week/Parcial1_SegundaParte/Parcial1_SegundaParte.iml" filepath="$PROJECT_DIR$/04-week/Parcial1_SegundaParte/Parcial1_SegundaParte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/estructura-datos-2025-b-g1.iml" filepath="$PROJECT_DIR$/.idea/estructura-datos-2025-b-g1.iml" />
+    </modules>
+  </component>
+</project>
